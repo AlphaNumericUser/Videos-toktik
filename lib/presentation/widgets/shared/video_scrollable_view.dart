@@ -3,6 +3,9 @@ import 'package:toktik/domain/entities/video_post.dart';
 import 'package:toktik/presentation/widgets/shared/video_buttons.dart';
 import 'package:toktik/presentation/widgets/video/fullscreen_player.dart';
 
+//* VideoScrollableView  displays a vertically scrolling view of
+//* videos, each with a full-screen video player and related buttons.
+
 
 class VideoScrollableView extends StatelessWidget {
   

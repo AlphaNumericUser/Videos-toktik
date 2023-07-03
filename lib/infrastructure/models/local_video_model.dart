@@ -1,5 +1,7 @@
 import 'package:toktik/domain/entities/video_post.dart';
 
+//* This class 'LocalVideoModel' provides a way to render and convert local videos to 'VideoPost' entities.
+
 
 class LocalVideoModel {
    

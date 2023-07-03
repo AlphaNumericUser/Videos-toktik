@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:toktik/presentation/widgets/video/video_background.dart';
 import 'package:video_player/video_player.dart';
 
+//* Here are the caption/title and player controller (pause and play)
+
 class FullScreenPlayer extends StatefulWidget {
 
   final String videoUrl;
@@ -95,7 +97,7 @@ class _VideoCaption extends StatelessWidget {
   final String caption;
 
 
-  const _VideoCaption({super.key, required this.caption });
+  const _VideoCaption({required this.caption });
 
   @override
   Widget build(BuildContext context) {

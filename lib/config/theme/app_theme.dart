@@ -1,5 +1,4 @@
-
-
+//* Here's the theme of the app
 
 import 'package:flutter/material.dart';
 

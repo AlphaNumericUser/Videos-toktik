@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+//* Here's the gradient for see more well the video's info
+
 
 class VideoBackground extends StatelessWidget {
   

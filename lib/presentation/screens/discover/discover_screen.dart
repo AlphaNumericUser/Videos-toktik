@@ -3,6 +3,8 @@ import 'package:provider/provider.dart';
 import 'package:toktik/presentation/providers/discover_provider.dart';
 import 'package:toktik/presentation/widgets/shared/video_scrollable_view.dart';
 
+//* In this screen show the videos with 'VideoScrollableView'
+
 class DiscoverScreen extends StatelessWidget {
   const DiscoverScreen({super.key});
 

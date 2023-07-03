@@ -1,3 +1,6 @@
+
+//* This is the local database. Here are the videos you download and rename
+
 List<Map<String, dynamic>> videoPosts = [
   {
     'name': 'Subiendo escaleras automáticas',

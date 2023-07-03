@@ -4,6 +4,7 @@ import 'package:toktik/infrastructure/models/local_video_model.dart';
 
 import 'package:toktik/shared/data/local_video_posts.dart';
 
+//* This class handles the state and logic to load and display the videos on the screen 'DiscoverScreen'
 
 
 class DiscoverProvider extends ChangeNotifier {
