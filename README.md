@@ -47,7 +47,7 @@ Rename those videos as follows since it's what is found in our data source.
 8.mp4
 ```
 
-Once the videos have been renamed, create the assets folder and give it the necessary permissions in the pubspec.yaml file.
+Once you have renamed the videos, create the following folders in the root of your project (assets/videos) and save your videos there. Once the videos are saved in the folders, grant access in pubspec.yaml.
 
 ```
 To add assets to your application, add an assets section, like this:
